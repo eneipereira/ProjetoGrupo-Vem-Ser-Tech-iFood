@@ -1,7 +1,3 @@
----
-marp: true
----
-
 # Lógica de Programação - Projeto final
 
 ## O que?
